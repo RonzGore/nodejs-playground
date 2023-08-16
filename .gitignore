@@ -1,5 +1,6 @@
 node_modules
 ignore
+interviews
 .DS_Store
 *.zip
 
